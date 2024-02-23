@@ -1,2 +1,2 @@
-# spring-boot-Account-project
+# spring-boot-BANK-Account-project
 A JAVA SPRING BOOT CRUD OPERATIONS PROJECT
